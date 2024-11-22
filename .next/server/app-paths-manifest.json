@@ -1,0 +1,7 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(chat)/opengraph-image-12cog0.png/route": "app/(chat)/opengraph-image-12cog0.png/route.js",
+  "/(chat)/twitter-image-12cog0.png/route": "app/(chat)/twitter-image-12cog0.png/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(chat)/page": "app/(chat)/page.js"
+}
