@@ -91,6 +91,7 @@ export const PreviewMessage = ({
                     {message.data.image && (
                       <div style={{margin : "20px 0px"}}>
                         <img
+                          alt="image"
                           src={`data:image/jpeg;base64,${message.data.image}`}
                           style={{ width: '90%', margin: 'auto' }}
                         ></img>
