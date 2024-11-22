@@ -151,12 +151,7 @@ export function Block({
     2000
   );
 
-  const saveContent = useCallback(
-    (updatedContent: string, debounce: boolean) => {
-      
-    },
-    [document, debouncedHandleContentChange, handleContentChange]
-  );
+
 
   function getDocumentContentById(index: number) {
     if (!documents) return '';
